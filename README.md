@@ -1,5 +1,7 @@
 ### Team 1!
 
+![](leaf.jpg)
+
 **Description**
 
 This is part of a team exercise for Open Source Course.
